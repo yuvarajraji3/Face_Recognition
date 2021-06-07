@@ -1,0 +1,19 @@
+step 1
+      connect to the internet
+step 2
+      install pycharm community and visual studio
+step 3
+      1.create new project in pycharm
+      2.goto settings
+           goto project option
+              goto interpreter
+                add dependences or install dependences
+                 1.cmake
+                 2.face-recognition
+                 3.numpy
+                 4.dlib(version:19.22.0)
+                 5.opencv-python
+step 4
+        verify the codes as main.py
+        add some images in new file in file_manager or my_files
+
